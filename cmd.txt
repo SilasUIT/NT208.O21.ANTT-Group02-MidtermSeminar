@@ -1,0 +1,26 @@
+npx creat-next-app@latest
+
+-> create a folder with your project name and install the required dependencies.
+
+
+the flow of work:
+
+-------------------------route-------------------------
+ 
+app, about, blog -> normal route
+blog/first, blog/second -> nested routing
+products/[productId] -> dynamic routing
+reviews/[reviewsId] -> nested dynamic routing
+docs/[...slug] -> catch all segemnts
+_lib -> private folder
+(auth) -> route group
+activelink -> layout in (auth)
+home -> layout
+
+-------------------------render-------------------------
+
+
+1. The majority of the population use personal vehicles for commuting to work, but the proportion of those using motorcycles was higher in 2010.
+
+2. The number of people using cars remained stable in 2010, but fell to 10 million.
+3. In contrast, the number of people using buses peaked in 2012, at around 2 million, before falling back to 1.2 million by the end of the survey period.
