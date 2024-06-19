@@ -108,11 +108,7 @@ Video trình bày: [NT208.O21.ANTT-Group02-MidtermSeminar](https://youtu.be/_sbf
 
 **Ứng dụng của kiến trúc serverless:**
 
-- **Ứng dụng có tải công việc biến đổi:**
-  - Phù hợp với các ứng dụng có tải công việc không đều hoặc biến đổi theo thời gian, như các dịch vụ web có lưu lượng truy cập biến đổi.
-- **Hệ thống điều khiển sự kiện:**
-  - Lý tưởng cho các hệ thống dựa trên sự kiện, như xử lý dữ liệu theo thời gian thực hoặc tự động hóa công việc.
-- **Microservices:**
-  - Giúp xây dựng các dịch vụ nhỏ, độc lập có thể triển khai và mở rộng riêng lẻ.
-- **Chu kỳ phát triển nhanh:**
-  - Thích hợp cho các dự án cần triển khai nhanh chóng và thay đổi linh hoạt theo yêu cầu kinh doanh.
+- **Ứng dụng có tải công việc biến đổi:** Phù hợp với các ứng dụng có tải công việc không đều hoặc biến đổi theo thời gian, như các dịch vụ web có lưu lượng truy cập biến đổi.
+- **Hệ thống điều khiển sự kiện:** Lý tưởng cho các hệ thống dựa trên sự kiện, như xử lý dữ liệu theo thời gian thực hoặc tự động hóa công việc.
+- **Microservices:** Giúp xây dựng các dịch vụ nhỏ, độc lập có thể triển khai và mở rộng riêng lẻ.
+- **Chu kỳ phát triển nhanh:** Thích hợp cho các dự án cần triển khai nhanh chóng và thay đổi linh hoạt theo yêu cầu kinh doanh.
